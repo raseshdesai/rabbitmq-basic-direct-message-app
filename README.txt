@@ -1,0 +1,1 @@
+Basic RabbitMQ sample application using direct messaging, imitating email being sent to specific user inbox
